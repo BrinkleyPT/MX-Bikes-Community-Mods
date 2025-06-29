@@ -1,6 +1,6 @@
 # 2023 Dreamland MX
 
-![Preview](/.assets/2023 Dreamland MX/6.png)
+![Preview](./.assets/2023 Dreamland MX/6.png)
 
 - **Author:** tbell
 - **Original Source:** [MXB-Mods](https://mxb-mods.com/2023-dreamland-mx/#download)
