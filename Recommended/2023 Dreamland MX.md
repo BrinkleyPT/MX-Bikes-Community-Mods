@@ -13,4 +13,6 @@
 
 ![Screenshot 2](https://raw.githubusercontent.com/BrinkleyPT/MX-Bikes-Community-Mods-Archive/refs/heads/main/.assets/2023%20Dreamland%20MX/5.png?token=GHSAT0AAAAAADGOPWL7ZCDSDJZMXNPWUNP22DBY4KQ)
 
+![Screenshot 3](https://raw.githubusercontent.com/BrinkleyPT/MX-Bikes-Community-Mods-Archive/refs/heads/main/.assets/2023%20Dreamland%20MX/1.png?token=GHSAT0AAAAAADGOPWL6OXH4O7EGQQS5QJPS2DBY6BA)
+
 **ReShade Info:** ✅ Not Used in Trailers or Screenshots
