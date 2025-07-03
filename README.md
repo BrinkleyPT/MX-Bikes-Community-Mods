@@ -76,7 +76,9 @@ This project is currently a **work in progress** and will grow over time.
 
 Thanks for reading — and ride safe! 🏍️
 
-> ## 🎯 NEXT GOALS
-> 
-> - [ ] Across the Sea ⛵
-> - [ ] Cedarwood Circuit
+---
+
+## 🎯 NEXT GOALS
+
+- [ ] Across the Sea ⛵
+- [ ] - [ ] Cedarwood Circuit
