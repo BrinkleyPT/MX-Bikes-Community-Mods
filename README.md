@@ -76,7 +76,7 @@ This project is currently a **work in progress** and will grow over time.
 
 Thanks for reading — and ride safe! 🏍️
 
-<center><h1>• • •</h1></center>
+<h1><center>• • •</center></h1>
 
 ## 🎯 NEXT GOALS
 
