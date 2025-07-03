@@ -1,4 +1,4 @@
-# MX Bikes Community Mods Archive
+# MX Bikes Community Mods
 
 A community-driven archive of **free mods** for *MX Bikes*, aimed at preserving access to content, crediting original creators, and making installation easier for everyone.
 
