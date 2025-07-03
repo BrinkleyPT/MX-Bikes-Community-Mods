@@ -79,4 +79,4 @@ Thanks for reading — and ride safe! 🏍️
 ## 🎯 NEXT GOALS
 
 - [ ] Across the Sea ⛵
-- [ ] - [ ] Cedarwood Circuit
+- [ ] Cedarwood Circuit
