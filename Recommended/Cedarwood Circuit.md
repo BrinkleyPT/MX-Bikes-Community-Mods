@@ -1,6 +1,6 @@
 # Cedarwood Circuit
 
-![Preview](https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/41df4850e5e3bbf6bcd388d8c8b09d105f63d945/.assets/Cedarwood%20Circuit/TrackThumb-1240x698.webp)
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/41df4850e5e3bbf6bcd388d8c8b09d105f63d945/.assets/Cedarwood%20Circuit/TrackThumb-1240x698.webp" alt="Preview" width="400" height="400">
 
 - **Author:** sixtyfour
 - **Original Source:** [MXB-Mods](https://web.archive.org/web/20250606170304/mxb-mods.com/cedarwood-circuit/#download)
