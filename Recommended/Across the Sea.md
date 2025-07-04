@@ -1,7 +1,7 @@
 # Across the Sea
 
 
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/b340c7b664ebdaa8eb32fb6c591171d7c8f68c68/.assets/Across%20the%20Sea/track-image.png" alt="Preview" width="500" height="500">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/b340c7b664ebdaa8eb32fb6c591171d7c8f68c68/.assets/Across%20the%20Sea/track-image.png" alt="Preview" width="460" height="460">
 
 - **Author:** punkerjeffy
 - **Original Source:** [MXB-Mods](https://mxb-mods.com/across-the-sea/#download)
