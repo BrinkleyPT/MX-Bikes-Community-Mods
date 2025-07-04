@@ -10,7 +10,8 @@
 
 **Screenshots:**
 
-![Screenshot 1](https://github.com/BrinkleyPT/MX-Bikes-Community-Mods-Archive/blob/3b51a343e951b51a87ed1fb16ed245abf4b050fc/.assets/2023%20Dreamland%20MX/3.png) ![Screenshot 2](https://github.com/BrinkleyPT/MX-Bikes-Community-Mods-Archive/blob/b92abab78bb163e04c1b996363dacdcd45a5c4d6/.assets/2023%20Dreamland%20MX/5.png) ![Screenshot 3](https://github.com/BrinkleyPT/MX-Bikes-Community-Mods-Archive/blob/03053d892fcdb7247e8b6553c1c752fe6a515f5d/.assets/2023%20Dreamland%20MX/1.png)
+![Screenshot 1](https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-1.png) ![Screenshot 2](https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-2.png)
+
 <details>
 
 <summary>See more</summary>
