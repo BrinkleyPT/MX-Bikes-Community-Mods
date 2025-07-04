@@ -1,6 +1,6 @@
 # 2023 Dreamland MX
 
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods-Archive/blob/fc3a8eb1f81a45a8d9673ac891f3af9f66c8e418/.assets/2023%20Dreamland%20MX/6.png" alt="Preview" width="450" height="450">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods-Archive/blob/fc3a8eb1f81a45a8d9673ac891f3af9f66c8e418/.assets/2023%20Dreamland%20MX/6.png" alt="Preview" width="460" height="460">
 
 - **Author:** tbell
 - **Original Source:** [MXB-Mods](https://mxb-mods.com/2023-dreamland-mx/#download)
