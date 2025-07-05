@@ -6,8 +6,10 @@
 - **Author:** punkerjeffy
 - **Original Source:** [MXB-Mods](https://mxb-mods.com/across-the-sea/#download)
 - **Mirror Downloads:**
-  - [Google Drive](https://drive.google.com/example)
-  - [MEGA](https://mega.nz/example)
+  - [MEGA (Track Version)](https://mega.nz/file/HpE3RZyD#8I9P8oX7xDk_lsilHoMxhpXuxsZgLxiz5BkkF-fycuI)
+  - [MEGA (Server Version)](https://mega.nz/file/mxU1GBjL#bMSvztG88gSpunOwBmgePmYXsSz5VwX_jmOocbYb91M)
+  - [Google Drive (Track Version)](https://drive.google.com/file/d/1gTggRRKVr65IzVp9ZQP2WFc6saVPo-6q/view?usp=sharing)
+  - [Google Drive (Server Version)](https://drive.google.com/file/d/1Y49UwXJpXp6D9gdjOWEKc7P6lT7tuGdK/view?usp=sharing)
 
 **Screenshots:**
 
