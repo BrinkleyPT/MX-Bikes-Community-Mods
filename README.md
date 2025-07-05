@@ -78,5 +78,5 @@ Thanks for reading — and ride safe! 🏍️
 
 ## 🎯 NEXT GOALS
 
-- [ ] ...
+- [ ] Logo design
 - [ ] ...
