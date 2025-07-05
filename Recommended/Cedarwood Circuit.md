@@ -5,8 +5,8 @@
 - **Author:** sixtyfour
 - **Original Source:** [MXB-Mods](https://web.archive.org/web/20250606170304/mxb-mods.com/cedarwood-circuit/#download)
 - **Mirror Downloads:**
-  - [Google Drive](https://drive.google.com/example)
-  - [MEGA](https://mega.nz/example)
+  - [Mediafire (Track Version)](https://www.mediafire.com/file/oj2fw7i7gfoep5a/Cedarwood+Circuit.pkz/file)
+  - [Mediafire (Server Version)](https://www.mediafire.com/file/q6pw1nszptm8pzh/Cedarwood+Circuit+(Server).pkz/file)
 
 **Screenshots:**
 
