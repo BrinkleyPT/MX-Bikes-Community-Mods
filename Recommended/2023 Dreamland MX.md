@@ -5,8 +5,8 @@
 - **Author:** tbell
 - **Original Source:** [MXB-Mods](https://mxb-mods.com/2023-dreamland-mx/#download)
 - **Mirror Downloads:**
-  - [Google Drive](https://drive.google.com/example)
-  - [MEGA](https://mega.nz/example)
+  - [MEGA (Track Version)](https://mega.nz/file/VUJ1QahJ#KIG4OcBlZ9j6JFfYUymgHnc0j-zYrKMq5bt-67lW7ww)
+  - [MEGA (Server Version)](https://mega.nz/file/oUJD0Brb#J5uDsHZWo7jZDTxVco6oFXLrzNoaAJC5Gxnzy7z4fXI)
 
 **Screenshots:**
 
