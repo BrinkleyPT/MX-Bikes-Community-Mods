@@ -78,5 +78,7 @@ Thanks for reading — and ride safe! 🏍️
 
 ## 🎯 NEXT GOALS
 
-- [ ] Logo design
+- [ ] Logo design (in progress)
 - [ ] Redline Valley by PS
+- [ ] Organize all the added mods (folders and sub-folders)
+  - [ ] Update all the markdown files created inside those folders, so that people can more easily have a quicker glance at the available mods, without having to open each one every single time
