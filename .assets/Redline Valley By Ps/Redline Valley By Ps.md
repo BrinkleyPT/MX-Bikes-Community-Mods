@@ -11,25 +11,17 @@
 
 **Screenshots:**
 
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-1.png" alt="Screenshot 1" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-2.png" alt="Screenshot 2" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-3.png" alt="Screenshot 3" width="640" height="360"> <details>
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/bfa42ef2e8c116613bdb4728572cdaba0ae879ba/.assets/Redline%20Valley%20By%20Ps/1.png" alt="Screenshot 1" width="640" height="360">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/bfa42ef2e8c116613bdb4728572cdaba0ae879ba/.assets/Redline%20Valley%20By%20Ps/2.png" alt="Screenshot 2" width="640" height="360">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/bfa42ef2e8c116613bdb4728572cdaba0ae879ba/.assets/Redline%20Valley%20By%20Ps/3.png" alt="Screenshot 3" width="640" height="360"> <details>
 
 <summary>See more</summary>
 <br>
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-4.png" alt="Screenshot 4" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-5.png" alt="Screenshot 5" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-6.png" alt="Screenshot 6" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-7.png" alt="Screenshot 7" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-8.png" alt="Screenshot 8" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-9.png" alt="Screenshot 9" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-10.png" alt="Screenshot 10" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-11.png" alt="Screenshot 11" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-12.png" alt="Screenshot 12" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-13.png" alt="Screenshot 13" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-14.png" alt="Screenshot 14" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-15.png" alt="Screenshot 15" width="640" height="360">
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/0eaad77cfffed8af6b82c5a1a0a401d6939e78d5/.assets/Across%20the%20Sea/track-preview-16.png" alt="Screenshot 16" width="640" height="360"> </details>
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/bfa42ef2e8c116613bdb4728572cdaba0ae879ba/.assets/Redline%20Valley%20By%20Ps/4.png" alt="Screenshot 4" width="640" height="360">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/bfa42ef2e8c116613bdb4728572cdaba0ae879ba/.assets/Redline%20Valley%20By%20Ps/5.png" alt="Screenshot 5" width="640" height="360">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/bfa42ef2e8c116613bdb4728572cdaba0ae879ba/.assets/Redline%20Valley%20By%20Ps/6.png" alt="Screenshot 6" width="640" height="360">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/bfa42ef2e8c116613bdb4728572cdaba0ae879ba/.assets/Redline%20Valley%20By%20Ps/7.png" alt="Screenshot 7" width="640" height="360">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/bfa42ef2e8c116613bdb4728572cdaba0ae879ba/.assets/Redline%20Valley%20By%20Ps/8.png" alt="Screenshot 8" width="640" height="360"> </details>
 
 **ReShade Info:** ✅ Not Used in Trailers or Screenshots
 
