@@ -1,7 +1,7 @@
 # Redline Valley By Ps
 
 
-<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/b340c7b664ebdaa8eb32fb6c591171d7c8f68c68/.assets/Across%20the%20Sea/track-image.png" alt="Preview" width="460" height="460">
+<img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/b41d64e76d656edd19a43a2951d895144e19ddad/.assets/Redline%20Valley%20By%20Ps/Omslag.png" alt="Preview" width="460" height="460">
 
 - **Author:** By Ps
 - **Original Source:** [MXB-Mods](https://mxb-mods.com/redline-valley-by-ps/#download)
