@@ -4,7 +4,7 @@
 <img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/b41d64e76d656edd19a43a2951d895144e19ddad/.assets/Redline%20Valley%20By%20Ps/Omslag.png" alt="Preview" width="460" height="460">
 
 - **Author:** By Ps
-- **Original Source:** <a href="https://mxb-mods.com/redline-valley-by-ps/#download" target="_blank">MXB-Mods</a>
+- **Original Source:** <a href="https://mxb-mods.com/redline-valley-by-ps/#download" target="blank">MXB-Mods</a>
 - **Mirror Downloads:**
   - [MEGA (Track Version)](https://mega.nz/file/7IpikCQL#5lcpZfxHTPgW6setMtIwBH7RLCisvFTIVh2V4RoreDs)
   - [Mediafire (Server Version)](https://www.mediafire.com/file/6ok6wygg3dqdwwk/Redline_Valley_By_Ps.pkz/file)
