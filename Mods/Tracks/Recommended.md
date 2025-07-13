@@ -14,7 +14,11 @@
 
 ### Havoc Raceway
 
-<a href="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/005503a7c0bc6b6aa025fda65b05b8a3dc0394d5/Recommended/Tracks/Motocross/2023%20Dreamland%20MX.md"><img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/88646980aea226930f975a3def47fdb00b4a9275/.assets/.images/Tracks/Motocross/Havoc%20Raceway/111.jpg" alt="Havoc Raceway" width="240" height="240"></a>
+<a href="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/e704ca61bcb0e991101040e6e44cfa7b0435d68f/Recommended/Tracks/Motocross/Havoc%20Raceway.md"><img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/88646980aea226930f975a3def47fdb00b4a9275/.assets/.images/Tracks/Motocross/Havoc%20Raceway/111.jpg" alt="Havoc Raceway" width="240" height="240"></a>
+
+### Abydos GP
+
+<a href="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/e704ca61bcb0e991101040e6e44cfa7b0435d68f/Recommended/Tracks/Motocross/Abydos%20GP.md"><img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/7ddd1309920c2d20f0446fabda7c57499c567be3/.assets/.images/Tracks/Motocross/Abydos%20GP/track-image.png" alt="Abydos GP" width="240" height="240"></a>
 
 ### Cedarwood Circuit
 
