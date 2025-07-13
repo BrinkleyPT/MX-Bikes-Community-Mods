@@ -20,6 +20,10 @@
 
 <a href="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/e704ca61bcb0e991101040e6e44cfa7b0435d68f/Recommended/Tracks/Motocross/Abydos%20GP.md"><img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/7ddd1309920c2d20f0446fabda7c57499c567be3/.assets/.images/Tracks/Motocross/Abydos%20GP/track-image.png" alt="Abydos GP" width="240" height="240"></a>
 
+### Sous Le Pont (MX vs. ATV Alive) Remake
+
+<a href="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/3d2d0888003200e2844f939e855b4f87568da206/Recommended/Tracks/Motocross/Sous%20Le%20Pont%20(MX%20vs.%20ATV%20Alive)%20Remake.md"><img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/ef136f65aa330fadf5aeb36221626839d65a2d4d/.assets/.images/Tracks/Motocross/Sous%20Le%20Pont%20(MX%20vs.%20ATV%20Alive)%20Remake/coverphoto.jpg" alt="Sous Le Pont (MX vs. ATV Alive) Remake" width="240" height="240"></a>
+
 ### Cedarwood Circuit
 
 <a href="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/005503a7c0bc6b6aa025fda65b05b8a3dc0394d5/Recommended/Tracks/Motocross/Cedarwood%20Circuit.md"><img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/41df4850e5e3bbf6bcd388d8c8b09d105f63d945/.assets/Cedarwood%20Circuit/TrackThumb-1240x698.webp" alt="Cedarwood Circuit" width="240" height="240"></a>
