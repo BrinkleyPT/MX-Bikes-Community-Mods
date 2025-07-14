@@ -1,3 +1,5 @@
+# <img src="https://github.com/BrinkleyPT/MX-Bikes-Community-Mods/blob/ccb652a76e37e5adb6e504aa1f1ab02a6c748d67/.assets/.templates/logo.png" alt="Preview" width="460" height="460">
+
 # MX Bikes Community Mods
 
 A community-driven archive of **free mods** for *MX Bikes*, aimed at preserving access to content, crediting original creators, and making installation easier for everyone.
