@@ -83,10 +83,10 @@ Thanks for reading — and ride safe! 🏍️
 - [ ] Logo design (in progress)
 - [ ] Organize all the added mods (folders and sub-folders)
   - [ ] Update all the markdown files created inside those folders, so that people can more easily have a quicker glance at the available mods, without having to open each one every single time
-
-- [ ] 📤 NEXT UPDATES:
-  - [ ] Tracks
-    - [ ] Motocross
-      - [ ] [DAY 1](https://mxb-mods.com/day-1)
-
+     
 - [ ] SECURITY.md
+
+## 📤 NEXT UPDATES
+- [ ] TRACKS
+  - [ ] Motocross
+    - [ ] [DAY 1](https://mxb-mods.com/day-1)
