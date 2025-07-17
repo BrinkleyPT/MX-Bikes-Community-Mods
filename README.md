@@ -87,6 +87,6 @@ Thanks for reading — and ride safe! 🏍️
 - [ ] SECURITY.md
 
 ## 📤 NEXT UPDATES
-- [ ] TRACKS
+- [ ] Tracks 🏁
   - [ ] Motocross
     - [ ] [DAY 1](https://mxb-mods.com/day-1)
