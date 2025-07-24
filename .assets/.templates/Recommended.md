@@ -1,7 +1,7 @@
 # 🎥 MX Bikes – Recommended 3rd Person Camera Settings
 
-**Author:** [YourName or Handle]  
-**Last Updated:** [YYYY-MM-DD]
+**Author:** BrinkleyPT  
+**Last Updated:** 23-07-2025
 
 This document contains my personal recommended third-person camera settings for MX Bikes, tested across different bikes and tracks. These settings aim to improve rider visibility, immersion, and feedback (especially rumble).
 
