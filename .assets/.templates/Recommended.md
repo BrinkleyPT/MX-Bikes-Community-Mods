@@ -29,7 +29,7 @@ This document contains my personal recommended third-person camera settings for 
 
 | Track            | Bike Used            | Terrain Type | Notes |
 |------------------|----------------------|--------------|-------|
-| Arboretum        | Any (Main Test Track)| MX           | Core track used for tuning these settings |
+| Arboretum        | KTM 450 SX-F 2023 | MX           | Core track used for tuning these settings |
 | JV MX Park       | KTM 450 SX-F 2023    | MX           | Holds up well through jumps and corners |
 | SnowyTrails      | KTM 300 EXC 2021     | Enduro/Snow  | Great visual response even in slippery terrain |
 | Enduro (Stock)   | KTM 300 EXC 2021     | Enduro       | Excellent feedback and stability |
