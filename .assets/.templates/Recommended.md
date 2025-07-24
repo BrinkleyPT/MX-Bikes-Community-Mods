@@ -44,6 +44,14 @@ This document contains my personal recommended third-person camera settings for 
 
 ---
 
+### ⚠️ Optional / Testing
+
+| Distance | Height | Verdict        | Reason |
+|----------|--------|----------------|--------|
+| `50`     | `75`   | Closer look | Nice if you want to have a closer look: suitable for smaller screens/devices |
+
+---
+
 ## 📌 Final Recommendation
 
 If you're seeking a **balanced third-person experience** that feels responsive, immersive, and consistent across bikes and tracks, start with:
