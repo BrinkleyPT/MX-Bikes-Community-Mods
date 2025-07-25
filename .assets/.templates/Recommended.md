@@ -49,6 +49,7 @@ This document contains my personal recommended third-person camera settings for 
 | Distance | Height | Verdict        | Reason |
 |----------|--------|----------------|--------|
 | `50`     | `75`   | Closer look | Nice if you want to have a closer look: more suitable for smaller screens/devices |
+| `10`     | `75`   | Closer look | Nice if you want to have a closer look: more suitable for smaller screens/devices |
 
 ---
 
