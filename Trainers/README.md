@@ -1,10 +1,10 @@
-###### ⚠️ TRAINER INSTALLATION STEPS:
+###### _⚠️ TRAINER INSTALLATION STEPS:_
 
-> #### 1) Go to:
+> #### _1) Go to:_
 >
 > ><code><i>C:/Users/%USERPROFILE%/Documents/PiBoSo/MX Bikes/profiles/</i></code>
 >
-> #### Then:
+> #### _Then:_
 > 
 > > <code><i>unnamedProfile</i></code> _»_ <code><i>trainers</i></code>
 >
